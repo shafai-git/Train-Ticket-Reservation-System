@@ -1,2 +1,13 @@
-/build/
-/target/
+# Eclipse files
+.metadata/
+.settings/
+.project
+.classpath
+
+# Java
+*.class
+bin/
+target/
+
+# Logs
+*.log
