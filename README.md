@@ -160,7 +160,7 @@ Note: If any of the above commands fails, please try to fix it first and then pr
 ### ====== Importing and Running the Project Through Eclipse EE ===========
 Step 0: Open Eclipse Enterprise Edition. [Install if not available](https://www.youtube.com/watch?v=8aDsEV7txXE)
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/shashirajraja/Train-Ticket-Reservation-System.git``` > Next > Select Master Branch > Next > Finish
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/shafai-git/Train-Ticket-Reservation-System.git``` > Next > Select Master Branch > Next > Finish
 
 Step 2.A: Right Click on Project > Run as > Maven Build > In the goals field enter "clean install" > apply > run
 
@@ -220,5 +220,5 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 
 
 #### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
+#### Shafai Rizvi
 ##### Project Leader
